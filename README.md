@@ -1,4 +1,5 @@
 # hello-world
 
-i edited the wrong readme file.
-way to go on the first tutorial.
+
+i was asketh to introduce thyself. revelio!
+
